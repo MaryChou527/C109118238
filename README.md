@@ -24,19 +24,22 @@ Big
 
 >> 每周二下午13:30~16:20 C220教室
 
-* 1st
-* 2nd
-* 3rt
+* Red
+* Green
+* Blue
+
+1. C109118238
+2. 資管三乙
+3. 周瑪麗
 
 ---
-
-1. I
-2. am
-3. happy
-4. .
+[高雄科技大學](https://www.nkust.edu.tw/)
 
 🐷
 
-**NKUST** *NKUST* ---NKUST---
+**NKUST** *NKUST* ~NKUST~
+
+| Food | Drink | Fruit |
+| :--- | :---: | ----: |
 
 ![NKUST](nkust.png "NKUST")
