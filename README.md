@@ -32,9 +32,9 @@ Strikethrough uses two tildes. ~Scratch this :~
 
 ---
 
-todo list
+- [ ] todo list
 
-2nd things
+- [ ] 2nd things
 
 ---
 
