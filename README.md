@@ -79,6 +79,12 @@ raw Markdown line up prettily. You can use inline Markdown.
 
 ---
 
+![Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
+
+播放
+
+---
+
 # C109118238 MA-LI, CHOU
 ## C109118238 MA-LI, CHOU
 ### C109118238 MA-LI, CHOU
