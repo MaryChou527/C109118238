@@ -1,4 +1,4 @@
-# C109118238 MA-LI, CHOU 實作題
+# 2022-3B C109118238 周瑪麗 實作題
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
@@ -14,21 +14,21 @@ Strikethrough uses two tildes. ~Scratch this :~
 
 2.Another item
 
- ‥* Unordered sub-list.
+‥* Unordered sub-list.
 
 3.Actual numbers don't matter, just that it's a number
 
- ‥1. Ordered sub-list
+‥1. Ordered sub-list
 
- …2. 2nd
+…2. 2nd
 
 4.And another item
 
- …* note 1
+…* note 1
 
- …* note 2
+…* note 2
 
- *** note 3
+*** note 3
 
 ---
 
@@ -40,17 +40,21 @@ Strikethrough uses two tildes. ~Scratch this :~
 
 python code
 
+```
 s = "Python syntax highlighting"
 
 print s
+```
 
 ---
 
 javascript code
 
+```
 var s = "Javascript syntax highlighting";
 
 alert(s);
+```
 
 ---
 
