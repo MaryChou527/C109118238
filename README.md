@@ -45,4 +45,4 @@ Big
 
 ![NKUST](nkust.png "NKUST")
 
-[![Celebrity](IU.jpg)](https://www.youtube.com/watch?v=0-q1KafFCLU) "Celebrity")
+[![Celebrity](IU.jpg)](https://www.youtube.com/watch?v=0-q1KafFCLU)
