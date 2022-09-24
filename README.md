@@ -1,3 +1,5 @@
+# C109118238 MA-LI, CHOU 實作題
+
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
@@ -39,6 +41,7 @@ todo list
 python code
 
 s = "Python syntax highlighting"
+
 print s
 
 ---
@@ -46,6 +49,7 @@ print s
 javascript code
 
 var s = "Javascript syntax highlighting";
+
 alert(s);
 
 ---
@@ -64,7 +68,12 @@ The outer pipes (|) are optional, and you don't need to make the
 
 raw Markdown line up prettily. You can use inline Markdown.
 
+| Markdoen | Less |	Pretty |
+| :------- | :--- | :----- | 
+| *Still* | `renders` | **nicely** |
+| 1 | 2 | 3 |
 
+---
 
 # C109118238 MA-LI, CHOU
 ## C109118238 MA-LI, CHOU
