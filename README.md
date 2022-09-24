@@ -8,19 +8,19 @@ Strikethrough uses two tildes. ~Scratch this :~
 
 ---
 
-First ordered list item
+1.First ordered list item
 
-Another item
+2.Another item
 
 ‥* Unordered sub-list.
 
-Actual numbers don't matter, just that it's a number
+3.Actual numbers don't matter, just that it's a number
 
 ‥1. Ordered sub-list
 
 …2. 2nd
 
-And another item
+4.And another item
 
 …* note 1
 
