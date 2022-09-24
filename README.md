@@ -33,11 +33,14 @@ Big
 ---
 [高雄科技大學](https://www.nkust.edu.tw/)
 
-🐷
-
 **NKUST** *NKUST* ~NKUST~
+
+🐷 💌 🍰
 
 | Food | Drink | Fruit |
 | :--- | :---: | ----: |
+| pasta | milk  | apple |
+| bagel | juice | strawberry |
+| hot pot | wine  | mango |
 
 ![NKUST](nkust.png "NKUST")
