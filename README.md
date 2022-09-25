@@ -134,4 +134,4 @@ Big
 
 - [ ] IU
 - [ ] MY IDOL
-- [X] LIVE IN TAIWAN
+- [X] LIVE IN South Korea
