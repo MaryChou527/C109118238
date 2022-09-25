@@ -4,7 +4,7 @@ Emphasis, aka italics, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with ***asterisks and underscores***.
+Combined emphasis with **asterisks and** ***underscores***.
 
 Strikethrough uses two tildes. ~Scratch this :~
 
@@ -131,3 +131,7 @@ Big
 ![NKUST](nkust.png "NKUST")
 
 [![Celebrity](IU.jpg)](https://www.youtube.com/watch?v=0-q1KafFCLU)
+
+- [ ] IU
+- [ ] MY IDOL
+- [ X ] LOVE
