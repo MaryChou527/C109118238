@@ -134,4 +134,4 @@ Big
 
 - [ ] IU
 - [ ] MY IDOL
-- [ X ] LOVE
+- [X] LIVE IN TAIWAN
