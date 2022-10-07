@@ -28,6 +28,7 @@ digraph {
       no9->no11
       no10->no11
 }
+
 ```
 
 (1)甘特圖
@@ -60,10 +61,13 @@ gantt
     section 使用者測試
     11:a11,after a9, 25d
 ```
+---
 
 (2)PERT/CPM 圖
 
 ![PERT](PERT圖.jpg "PERT")
+
+---
 
 (3)關鍵路徑
 
