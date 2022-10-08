@@ -33,7 +33,7 @@ digraph {
 
 ---
 
-##**甘特圖**
+# **甘特圖**
 
 ![image](https://user-images.githubusercontent.com/113968695/193867954-30f4c484-2fb1-4914-8cd1-dfc1189e5cf2.png)
 ![image](https://user-images.githubusercontent.com/113968695/193868005-0d34bbae-e4b1-4b83-b933-9b7f8d147bde.png)
@@ -66,12 +66,12 @@ gantt
 ```
 ---
 
-##**PERT/CPM 圖**
+# **PERT/CPM 圖**
 
 ![PERT](PERT圖.jpg "PERT圖")
 
 ---
 
-##**關鍵路徑**
+# **關鍵路徑**
 
 關鍵路徑 : 1->2->4->6->9->11
