@@ -67,7 +67,7 @@ gantt
 
 **PERT/CPM 圖**
 
-![PERT](PERT圖.jpg "PERT")
+![PERT](PERT圖.jpg "PERT圖")
 
 ---
 
