@@ -41,7 +41,7 @@ digraph {
 ## **甘特圖**
 
 ![image](https://user-images.githubusercontent.com/94920331/194768117-c16365e4-717c-4702-be61-22d851f5b230.png)
-![image](https://user-images.githubusercontent.com/94920331/194768181-833ab3df-4210-41ab-b493-a679e5c07ae1.png)
+![image](https://user-images.githubusercontent.com/94920331/194768215-fd94cfb8-2d45-41ec-935e-84d52447e65b.png)
 
 ```mermaid
 gantt
