@@ -40,7 +40,7 @@ digraph {
 
 ## **甘特圖**
 
-![image](https://user-images.githubusercontent.com/94920331/194768457-1d48685a-8409-44ad-99df-07bac0a4d2b8.png)
+![image](https://user-images.githubusercontent.com/94920331/194768512-30e8d6e3-dc66-4c16-845d-4b964301141c.png)
 ![image](https://user-images.githubusercontent.com/94920331/194768363-d672f8ed-3bcf-46e5-b09b-f4d835c164ea.png)
 
 ```mermaid
