@@ -1,6 +1,6 @@
 # 2022-3B C109118238 周瑪麗 hw2.md
 
-# **PERT/CPM 圖**
+## **PERT/CPM 圖**
 
 ![PERT](PERT圖.jpg "PERT圖")
 
@@ -38,7 +38,7 @@ digraph {
 
 ---
 
-# **甘特圖**
+## **甘特圖**
 
 ![image](https://user-images.githubusercontent.com/94920331/194765193-eab63110-5a2d-43e7-9c65-3f8fad2ab0c1.png)
 ![image](https://user-images.githubusercontent.com/94920331/194766751-d2d0a034-a44e-4cda-a805-2b8abc5ea948.png)
@@ -71,6 +71,6 @@ gantt
 ```
 ---
 
-# **關鍵路徑**
+## **關鍵路徑**
 
 關鍵路徑 : 1->2->4->6->9->11
