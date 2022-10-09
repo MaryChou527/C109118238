@@ -39,6 +39,10 @@ digraph {
 ---
 
 # **甘特圖**
+
+![image](https://user-images.githubusercontent.com/94920331/194754926-3e0e5628-395a-4b8f-8568-a2174e4e0d4d.png)
+
+
 ```mermaid
 gantt
     title A Gantt Diagram
