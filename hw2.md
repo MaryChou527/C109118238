@@ -1,3 +1,4 @@
+# 2022-3B C109118238 周瑪麗 hw2.md
 
 # **PERT/CPM 圖**
 
@@ -40,7 +41,7 @@ digraph {
 # **甘特圖**
 
 ![image](https://user-images.githubusercontent.com/94920331/194765193-eab63110-5a2d-43e7-9c65-3f8fad2ab0c1.png)
-![image](https://user-images.githubusercontent.com/94920331/194766581-a67405f3-2ea0-4565-814d-fed0e2d03462.png)
+![image](https://user-images.githubusercontent.com/94920331/194766751-d2d0a034-a44e-4cda-a805-2b8abc5ea948.png)
 
 ```mermaid
 gantt
