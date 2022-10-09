@@ -74,4 +74,4 @@ gantt
 
 ## **關鍵路徑**
 
-關鍵路徑 : 1->2->4->6->9->11
+![image](https://user-images.githubusercontent.com/94920331/194769115-5872a67d-28fe-45e9-acf1-ac21824fd218.png)
